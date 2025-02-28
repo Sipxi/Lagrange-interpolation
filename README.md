@@ -3,13 +3,6 @@
 ## Overview
 This Python script implements Lagrange interpolation using the `sympy` library. It takes a set of coordinates as input, constructs the interpolation polynomial, and solves for `y`.
 
-## Features
-- Accepts user input for coordinate points.
-- Displays the input values in a formatted table.
-- Computes the Lagrange interpolating polynomial.
-- Uses `sympy` to construct and solve the interpolation equation.
-- Outputs the final interpolated function.
-
 ## Requirements
 - Python 3.x
 - `sympy` library
